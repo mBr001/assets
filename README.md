@@ -1,2 +1,2 @@
 # WorkFrame Assets
-Graphics, images and other resources for WorkFrame
+Graphics, fonts, images and other resources for WorkFrame
